@@ -6891,6 +6891,14 @@ jest-mock@^26.6.2:
     "@jest/types" "^26.6.2"
     "@types/node" "*"
 
+jest-mock@^27.1.1:
+  version "27.1.1"
+  resolved "https://registry.nlark.com/jest-mock/download/jest-mock-27.1.1.tgz?cache=0&sync_timestamp=1631095992620&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fjest-mock%2Fdownload%2Fjest-mock-27.1.1.tgz#c7a2e81301fdcf3dab114931d23d89ec9d0c3a82"
+  integrity sha1-x6LoEwH9zz2rEUkx0j2J7J0MOoI=
+  dependencies:
+    "@jest/types" "^27.1.1"
+    "@types/node" "*"
+
 jest-pnp-resolver@^1.2.2:
   version "1.2.2"
   resolved "https://registry.npm.taobao.org/jest-pnp-resolver/download/jest-pnp-resolver-1.2.2.tgz#b704ac0ae028a89108a4d040b3f919dfddc8e33c"
